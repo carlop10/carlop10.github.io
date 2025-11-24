@@ -1563,24 +1563,6 @@ def create_spring_coords(self, y_pos):
 - ✅ Valores mostrados en tiempo real
 - ✅ Experimentos predefinidos para demostración fácil
 
-### Posibles Mejoras al Código
-
-#### Fácil:
-- Añadir más colores y temas visuales
-- Crear más experimentos predefinidos
-- Agregar tooltips informativos
-
-#### Medio:
-- Implementar guardar/cargar configuraciones
-- Añadir gráfica de energía vs tiempo
-- Exportar datos a archivo CSV
-
-#### Avanzado:
-- Añadir visualización del espacio de fases
-- Implementar análisis de Fourier (FFT)
-- Crear sistema de 2 masas acopladas
-- Añadir resortes no lineales
-
 ---
 
 **¡Disfruta explorando la física de los sistemas masa-resorte! 🚀**
