@@ -1,3 +1,4 @@
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 # 📬 GUÍA COMPLETA DEL PROYECTO
 ## Sistema Masa-Resorte Interactivo
 **Material completo para presentación**
@@ -1566,3 +1567,4 @@ def create_spring_coords(self, y_pos):
 ---
 
 **¡Disfruta explorando la física de los sistemas masa-resorte! 🚀**
+</div>
